@@ -1,0 +1,21 @@
+<book>
+	<name>Hiragana</name>
+	<desc>Hiragana Basics.</desc>
+	<pages>
+		<page1>Hiragana is a writing system used in Japanese. It has 50 characters which each represent a unique syllable. The value of their sound virtually never changes (minus two letters, which you'll learn later. Hiragana was invented by women during a period of time where women were not expected to know how to read Kanji, which were used by scholars at the time to write Japanese. This method of writing Kanji phonetically is known as Man'yougana. During this time, women took to cursive writing, and the resulting letters are what we use today. For example, 以 (a Kanji) "ee" became い (Hiragana) "ee". </page1>
+		<page2>あいうえお are the first five letters. They are only vowels. They are pronounced as: 
+   
+あ　AH | い　 EE | う　OOH | え　EH | お　OH. 
+
+We will refer to these vowels as a | i | u | e | o respectively (think like Spanish vowels). Here are some example words:
+
+* あい - love
+* あう - to meet
+* いい - good 
+* いう - to say
+* いいえ - no
+* うえ - up, above
+* うお - fish
+* おう - king</page2>
+	</pages>
+</book>
